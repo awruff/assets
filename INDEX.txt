@@ -2,9 +2,8 @@ jars/Argentum/8b714f75d5b7d4ed669ffe61b416599f5aba9c74/argentum-1.0.0.jar
 jars/Argentum/8b714f75d5b7d4ed669ffe61b416599f5aba9c74/argentum-extras-1.0.0.jar
 jars/Argentum/8b714f75d5b7d4ed669ffe61b416599f5aba9c74/buildSrc.jar
 jars/Argentum/8b714f75d5b7d4ed669ffe61b416599f5aba9c74/cera-1.0.0.jar
-jars/betterhurtcam/79c28d89a0e8953e3d078f26e7bff5f71d41ef80/BetterHurtCam-1.14.0+mc1.8.9-ornithe.jar
-jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Better-Screens/fd58a321701e598086c39102d81b80d9b1d0f71f/betterscreens-2.0.14+1.8.9-fabric.jar
+jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/90efb2a38e12c2f68238273d7404acaa8f0abd5d/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
 jars/Chatting/a542fd44fdb5e5885c080667e8d9e8187f8a0d4e/chatting-3.1.5+1.8.9.jar
 jars/ColorSaturation/573a10721201de06198c8fa0e2a2a99be21a7c99/colorsaturation-1.3.0+1.8.9.jar
@@ -23,7 +22,6 @@ jars/HyLobby/889224d2bdb342e9de8bfa232b17f802f31db4a6/HyLobby-1.0.0-1.8.9_ornith
 jars/HyLobby/c08462a61f3b2adc68d598f7b2b78172856aa4cb/HyLobby-1.0.0-1.8.9_ornithe.jar
 jars/HyMod/261f995543be9e15b591f1a7430cad147593c8b7/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/HyMod/fdde01af59d121d4edf17157dabc860c11659877/HyInfo-3.0.0-1.8.9_ornithe.jar
-jars/lenis/8b94852d8ed52b69db6598b325a10a1a2a4fdd55/lenis-0.1.4.jar
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
 jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/974c21c10ff65a02fb2bd4aaae4e7def853528b5/O-ItemPhysicLite-1.0.0.jar
@@ -43,8 +41,10 @@ jars/Sciophobia/8b4a1a0e5082c59426bd192ca9f6eee60e5a5a16/sciophobia-1.2.6+1.8.9-
 jars/ScreenshotMessageEnhancer/2c2a94c84d010a4ddf8983447b17446c3375bfe7/ScreenshotMessageEnhancer-2.5.0-1.8.9_ornithe.jar
 jars/ScrollTweaks/9da44c35a5ce2f9fbfde729928398ae486a0485c/scrolltweaks-1.0.7+1.8.9-fabric.jar
 jars/ShakeTweaks/df2b685b028f88fc67b00892ec5c6e6fee78be8f/shaketweaks-1.2.3+1.8.9-fabric.jar
-jars/SmoothScrollingRefurbished/1a6089dbe4d494afc411964128cb2facf357f719/smoothscrollingrefurbished-1.10.0+1.8.9.jar
 jars/Smooth-Skies/1ae69f2f2674d4ae45d480611fef92a412f77a73/smoothskies-2.12.2+1.8.9-fabric.jar
+jars/SmoothScrollingRefurbished/1a6089dbe4d494afc411964128cb2facf357f719/smoothscrollingrefurbished-1.10.0+1.8.9.jar
 jars/SoundTweaks/5d234a6c204614c81def4f9e332bf4ef7d140c36/soundtweaks-1.0.0-alpha.1+1.8.9.jar
 jars/Tipper/1a4f6ecdc5493390fb603a8b39807ce766cfc3e7/tipper-1.0.0+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
+jars/betterhurtcam/79c28d89a0e8953e3d078f26e7bff5f71d41ef80/BetterHurtCam-1.14.0+mc1.8.9-ornithe.jar
+jars/lenis/8b94852d8ed52b69db6598b325a10a1a2a4fdd55/lenis-0.1.4.jar
