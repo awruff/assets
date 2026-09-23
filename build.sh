@@ -38,7 +38,7 @@ while IFS=$'\t' read -r url branch jarpath; do
   for target in assemble 1.8.9:assemble 1.8.9-ornithe:assemble; do
     for jdk in "${JDKS[@]}"; do
       ( cd "$src" && JAVA_HOME=$jdk PATH=$jdk/bin:$PATH \
-          "${gw[@]}" --configure-on-demand "$target" --no-daemon --stacktrace \
+          "${gw[@]}" "$target" --no-daemon --stacktrace \
       ) > "$work/$name.log" 2>&1 </dev/null && { built="$jdk $target"; break 2; }
     done
   done

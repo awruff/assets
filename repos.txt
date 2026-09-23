@@ -38,4 +38,4 @@ https://github.com/Polyfrost/Blur.git	ornithe-1.8.9
 https://github.com/Polyfrost/Dynamic-FPS.git	1.8.9
 https://github.com/awruff/SmoothScrollingRefurbished.git	main
 https://codeberg.org/awruff/Tipper.git	master
-https://github.com/Polyfrost/OneConfig.git	legacy	/bootstrap/
+https://github.com/Polyfrost/OneConfig.git	legacy	bootstrap/versions/
