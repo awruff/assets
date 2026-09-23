@@ -27,6 +27,7 @@ jars/lenis/8b94852d8ed52b69db6598b325a10a1a2a4fdd55/lenis-0.1.4.jar
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
 jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/974c21c10ff65a02fb2bd4aaae4e7def853528b5/O-ItemPhysicLite-1.0.0.jar
+jars/OneConfig/e85003b60661b34c409b251abd65c4649b342a14/OneConfig-1.8.9-ornithe-1.2.4.jar
 jars/OverlayTweaks/39ca4b81ce3233e8a205c527b6aefc8844b660f8/overlaytweaks-2.0.0+1.8.9-fabric.jar
 jars/PolyBlur/0e25f794878cd66dd0e69df7ee5f23ff1c4cf610/polyblur-2.2.1+1.8.9.jar
 jars/PolyPlus/d148d34e6181da8bf133ad62d4e70db6dc9c22ce/polyplus-1.2.29+1.8.9.jar

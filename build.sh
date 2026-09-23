@@ -14,7 +14,7 @@ mapfile -t JDKS < <(
 [ ${#JDKS[@]} -eq 0 ] && { echo "no JDK found"; exit 1; }
 echo "JDKs: ${JDKS[*]}"
 
-while IFS=$'\t' read -r url branch; do
+while IFS=$'\t' read -r url branch jarpath; do
   case ${url:-} in ''|\#*) continue;; esac
   name=$(basename "$url" .git)
 
@@ -51,6 +51,12 @@ while IFS=$'\t' read -r url branch; do
   mapfile -t jars < <(find "$src" -path '*/build/libs/*.jar' \
     ! -name '*-sources.jar' ! -name '*-javadoc.jar' ! -name '*-dev.jar' \
     ! -name '*-dev-*.jar' ! -name '*-slim.jar' ! -name '*-namedElements*.jar' | sort)
+  # Multi-module repos (OneConfig) build library jars beside the one we actually want;
+  # the optional third repos.txt column restricts which build dir counts.
+  if [ -n "${jarpath:-}" ]; then
+    mapfile -t jars < <(printf '%s\n' "${jars[@]}" | grep -F "$jarpath")
+  fi
+  # A repo whose branch is still multi-version emits a jar per Minecraft version.
   mapfile -t only189 < <(printf '%s\n' "${jars[@]}" | grep -F '1.8.9')
   [ ${#only189[@]} -gt 0 ] && jars=("${only189[@]}")
   if [ ${#jars[@]} -eq 0 ]; then echo "FAIL $name: no jar produced"; rm -rf "$src"; fail=1; continue; fi
