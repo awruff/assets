@@ -1,0 +1,4 @@
+legacy
+550f1cc2adecab9b7aca155f429890db5be11ae6
+2026-09-24T14:38:17-04:00
+fix(legacy): stop Skia dropping clipped draws without a stencil

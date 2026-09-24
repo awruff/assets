@@ -1,7 +1,7 @@
-jars/Argentum/cfe7b1d251ef31b7b62e5156e37ee06396ad4caf/argentum-1.0.0.jar
-jars/Argentum/cfe7b1d251ef31b7b62e5156e37ee06396ad4caf/argentum-extras-1.0.0.jar
-jars/Argentum/cfe7b1d251ef31b7b62e5156e37ee06396ad4caf/buildSrc.jar
-jars/Argentum/cfe7b1d251ef31b7b62e5156e37ee06396ad4caf/cera-1.0.0.jar
+jars/Argentum/c82ad768301b2a3f88dd5218fc28c0e82ac1a0de/argentum-1.0.0.jar
+jars/Argentum/c82ad768301b2a3f88dd5218fc28c0e82ac1a0de/argentum-extras-1.0.0.jar
+jars/Argentum/c82ad768301b2a3f88dd5218fc28c0e82ac1a0de/buildSrc.jar
+jars/Argentum/c82ad768301b2a3f88dd5218fc28c0e82ac1a0de/cera-1.0.0.jar
 jars/Better-Screens/a96904550447fa0a34e54051df9a9ba57873477d/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
@@ -20,7 +20,7 @@ jars/HyMod/261f995543be9e15b591f1a7430cad147593c8b7/HyInfo-3.0.0-1.8.9_ornithe.j
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
 jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/974c21c10ff65a02fb2bd4aaae4e7def853528b5/O-ItemPhysicLite-1.0.0.jar
-jars/OneConfig/e85003b60661b34c409b251abd65c4649b342a14/OneConfig-1.8.9-ornithe-1.2.4.jar
+jars/OneConfig/550f1cc2adecab9b7aca155f429890db5be11ae6/OneConfig-1.8.9-ornithe-1.2.6.jar
 jars/OverlayTweaks/39ca4b81ce3233e8a205c527b6aefc8844b660f8/overlaytweaks-2.0.0+1.8.9-fabric.jar
 jars/PolyBlur/cff1b1f30e6b432ac711866119af1fc63545ba67/polyblur-2.2.1+1.8.9.jar
 jars/PolyPlus/44a9d20245695e54b2707b93af81b77427d66a6c/polyplus-1.2.32+1.8.9.jar
