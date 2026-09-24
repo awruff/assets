@@ -1,0 +1,4 @@
+legacy
+a9038cfd8c4af6255486d391f7c65c0fed5f8a74
+2026-09-23T23:26:31Z
+ci: don't build modern
