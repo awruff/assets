@@ -69,5 +69,10 @@ while IFS=$'\t' read -r url branch jarpath; do
   echo "OK $name@${sha:0:8}: ${#jars[@]} jar(s) via ${built##*/}"
 done < repos.txt
 
-find jars -name '*.jar' 2>/dev/null | sort > INDEX.txt
+# INDEX.txt lists only the newest build of each repo (by commit date).
+for repo in jars/*/; do
+  for b in "$repo"*/; do
+    [ -f "$b/COMMIT.txt" ] && printf '%s\t%s\n' "$(sed -n 3p "$b/COMMIT.txt")" "$b"
+  done | sort -r | head -1 | cut -f2
+done | xargs -r -I{} find {} -name '*.jar' | sort > INDEX.txt
 exit $fail
