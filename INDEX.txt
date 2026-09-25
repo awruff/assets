@@ -1,7 +1,7 @@
-jars/Argentum/a119b4054d4441a80fd279770a0e5df641761dc3/argentum-1.0.0.jar
-jars/Argentum/a119b4054d4441a80fd279770a0e5df641761dc3/argentum-extras-1.0.0.jar
-jars/Argentum/a119b4054d4441a80fd279770a0e5df641761dc3/buildSrc.jar
-jars/Argentum/a119b4054d4441a80fd279770a0e5df641761dc3/cera-1.0.0.jar
+jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/argentum-1.0.0.jar
+jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/argentum-extras-1.0.0.jar
+jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/buildSrc.jar
+jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/cera-1.0.0.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
