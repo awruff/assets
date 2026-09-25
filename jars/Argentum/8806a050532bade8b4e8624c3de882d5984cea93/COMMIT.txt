@@ -1,0 +1,4 @@
+main
+8806a050532bade8b4e8624c3de882d5984cea93
+2026-09-25T16:47:38-04:00
+compile shader fog variants upfront

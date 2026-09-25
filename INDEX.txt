@@ -1,7 +1,7 @@
-jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/argentum-1.0.0.jar
-jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/argentum-extras-1.0.0.jar
-jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/buildSrc.jar
-jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/cera-1.0.0.jar
+jars/Argentum/8806a050532bade8b4e8624c3de882d5984cea93/argentum-1.0.0.jar
+jars/Argentum/8806a050532bade8b4e8624c3de882d5984cea93/argentum-extras-1.0.0.jar
+jars/Argentum/8806a050532bade8b4e8624c3de882d5984cea93/buildSrc.jar
+jars/Argentum/8806a050532bade8b4e8624c3de882d5984cea93/cera-1.0.0.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
@@ -29,7 +29,7 @@ jars/PolyZoom/ba8f354e453f730f9d2e3fdb15a34952aaab89d9/PolyZoom-1.0.0.jar
 jars/Pulse/e6d61f6f5a01fe1b4f3505218fc741cd696cca62/pulse-1.0.0.jar
 jars/REDACTION/e8ab57c2aa13fa20d221cd92ad9d29ac16e218f0/redaction-2.0.1+1.8.9.jar
 jars/RenderTweaks/b385e5682baa52808cfbb8d124aade3b1696f755/rendertweaks-2.0.1+1.8.9-fabric.jar
-jars/Sarcio/4f4a8dac94f66674ddf53bc8431e3f16f039d522/Sarcio-0.1.jar
+jars/Sarcio/a25164bd3a442de5a4ceee20480b6b7cddf098d7/Sarcio-0.1.jar
 jars/Sciophobia/8b4a1a0e5082c59426bd192ca9f6eee60e5a5a16/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/2c2a94c84d010a4ddf8983447b17446c3375bfe7/ScreenshotMessageEnhancer-2.5.0-1.8.9_ornithe.jar
 jars/ScrollTweaks/9da44c35a5ce2f9fbfde729928398ae486a0485c/scrolltweaks-1.0.7+1.8.9-fabric.jar
@@ -40,4 +40,7 @@ jars/SoundTweaks/5d234a6c204614c81def4f9e332bf4ef7d140c36/soundtweaks-1.0.0-alph
 jars/Tipper/1a4f6ecdc5493390fb603a8b39807ce766cfc3e7/tipper-1.0.0+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/79c28d89a0e8953e3d078f26e7bff5f71d41ef80/BetterHurtCam-1.14.0+mc1.8.9-ornithe.jar
-jars/lenis/8b94852d8ed52b69db6598b325a10a1a2a4fdd55/lenis-0.1.4.jar
+jars/lenis/efd4fa2e5568f89dc6f0c19a6a93d48bee36beec/fabric-0.1.6.jar
+jars/lenis/efd4fa2e5568f89dc6f0c19a6a93d48bee36beec/pylon-0.1.6.jar
+jars/lenis/efd4fa2e5568f89dc6f0c19a6a93d48bee36beec/pylon-build-logic.jar
+jars/lenis/efd4fa2e5568f89dc6f0c19a6a93d48bee36beec/vanilla-0.1.6.jar
