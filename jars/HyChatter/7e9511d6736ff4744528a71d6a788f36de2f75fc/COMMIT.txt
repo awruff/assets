@@ -1,0 +1,4 @@
+main
+7e9511d6736ff4744528a71d6a788f36de2f75fc
+2026-09-25T17:35:56+02:00
+fix coords waypoints regex

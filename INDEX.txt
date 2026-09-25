@@ -1,7 +1,7 @@
-jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/argentum-1.0.0.jar
-jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/argentum-extras-1.0.0.jar
-jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/buildSrc.jar
-jars/Argentum/fb29d1d5583a290f2bad2874ccfe2a5eb519c8cc/cera-1.0.0.jar
+jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/argentum-1.0.0.jar
+jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/argentum-extras-1.0.0.jar
+jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/buildSrc.jar
+jars/Argentum/c36c9022e9e858296f4f313263526a5f963d6f2f/cera-1.0.0.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
@@ -12,9 +12,9 @@ jars/CrosshairTweaks/c4467ed2b8c06d0a84c7bf98580488d4e079cf87/crosshairtweaks-2.
 jars/DroppedItemTweaks/3a4518b6d14509ac0bbc239481dff64e2add556d/droppeditemtweaks-2.0.0+1.8.9-fabric.jar
 jars/Dynamic-FPS/99f3c39210410354c3d148ee752797eb5c84f354/dynamic-fps-1.0.0.jar
 jars/GlintColorizer/a4192ff13f9b4e5f032a34dfe04e950b53a2bb84/glintcolorizer-3.0.0+1.8.9.jar
-jars/HyBedWars/fea0d0da0e05ad2d71dbcc7185312e7bb1fb5df0/HyBedWars-1.0.0-1.8.9_ornithe.jar
+jars/HyBedWars/c70aff4bd9af4a13e4db9530c9cefb7c6f5692bc/HyBedWars-1.0.0-1.8.9_ornithe.jar
 jars/HyBridge/3d889aa6dfd6f6b94c9f37eab459c24d84d3a1d8/HyBridge-1.0.0-1.8.9_ornithe.jar
-jars/HyChatter/04c7ee21e2495cc49ad0d7800e76b3336c3fd4e6/HyChatter-1.0.0-1.8.9_ornithe.jar
+jars/HyChatter/7e9511d6736ff4744528a71d6a788f36de2f75fc/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/889224d2bdb342e9de8bfa232b17f802f31db4a6/HyLobby-1.0.0-1.8.9_ornithe.jar
 jars/HyMod/261f995543be9e15b591f1a7430cad147593c8b7/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
