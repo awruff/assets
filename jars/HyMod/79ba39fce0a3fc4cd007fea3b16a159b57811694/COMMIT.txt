@@ -1,0 +1,4 @@
+main
+79ba39fce0a3fc4cd007fea3b16a159b57811694
+2026-09-26T23:45:27+02:00
+fix nametags being displayed multiple times with present scoreboard objective
