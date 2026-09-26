@@ -1,0 +1,4 @@
+main
+c8714ae93a09dbe7835e6d8aeb4d29ab11c1d0a4
+2026-09-26T00:57:55+02:00
+fix hide guild motd
