@@ -1,0 +1,4 @@
+main
+9a1c3c2a0a4627afc595c927dd143eaf9d4a5707
+2026-09-26T03:32:29-04:00
+remove redirects fixes something with chatting i think
