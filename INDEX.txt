@@ -1,7 +1,7 @@
-jars/Argentum/096e4851c908f9c8337e541129a1636baeb54f1f/argentum-1.0.0.jar
-jars/Argentum/096e4851c908f9c8337e541129a1636baeb54f1f/argentum-extras-1.0.0.jar
-jars/Argentum/096e4851c908f9c8337e541129a1636baeb54f1f/buildSrc.jar
-jars/Argentum/096e4851c908f9c8337e541129a1636baeb54f1f/cera-1.0.0.jar
+jars/Argentum/de4ba7b8246c732f1f31f2df5eb4a1dd88b782a0/argentum-1.0.0+fb97a40.jar
+jars/Argentum/de4ba7b8246c732f1f31f2df5eb4a1dd88b782a0/argentum-extras-1.0.0+fb97a40.jar
+jars/Argentum/de4ba7b8246c732f1f31f2df5eb4a1dd88b782a0/buildSrc.jar
+jars/Argentum/de4ba7b8246c732f1f31f2df5eb4a1dd88b782a0/cera-1.0.0+fb97a40.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
@@ -33,7 +33,7 @@ jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
 jars/Pulse/998a5c425367f2ca590199e0247dc2f44ff71bb7/pulse-1.0.0.jar
 jars/REDACTION/e8ab57c2aa13fa20d221cd92ad9d29ac16e218f0/redaction-2.0.1+1.8.9.jar
 jars/RenderTweaks/b385e5682baa52808cfbb8d124aade3b1696f755/rendertweaks-2.0.1+1.8.9-fabric.jar
-jars/Sarcio/0ebe40d28c330d79de257fd1ae2d70b0a7cd2371/Sarcio-0.1.jar
+jars/Sarcio/69dd16794441ad89a40e90a6c1d3811d77b65db7/Sarcio-1.0.0+fb97a40.jar
 jars/Sciophobia/8b4a1a0e5082c59426bd192ca9f6eee60e5a5a16/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/377f1e69396017c186cb92c7e1a9e92373b5e513/ScreenshotMessageEnhancer-2.5.0-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/377f1e69396017c186cb92c7e1a9e92373b5e513/ScreenshotMessageEnhancer-2.5.0-1.8.9_ornithe.jar
