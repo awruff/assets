@@ -12,11 +12,12 @@ jars/CrosshairTweaks/c4467ed2b8c06d0a84c7bf98580488d4e079cf87/crosshairtweaks-2.
 jars/DroppedItemTweaks/3a4518b6d14509ac0bbc239481dff64e2add556d/droppeditemtweaks-2.0.0+1.8.9-fabric.jar
 jars/Dynamic-FPS/99f3c39210410354c3d148ee752797eb5c84f354/dynamic-fps-1.0.0.jar
 jars/GlintColorizer/a4192ff13f9b4e5f032a34dfe04e950b53a2bb84/glintcolorizer-3.0.0+1.8.9.jar
-jars/HyBedWars/a049232f9e76f3b93ee478a02fc5dad696ec14b2/HyBedWars-1.0.0-1.8.9_forge.jar
-jars/HyBedWars/a049232f9e76f3b93ee478a02fc5dad696ec14b2/HyBedWars-1.0.0-1.8.9_ornithe.jar
-jars/HyBridge/a5eeb2bdd93007a631ecc4fa2f84d35c2f20cdb0/HyBridge-1.0.0-1.8.9_forge.jar
-jars/HyBridge/a5eeb2bdd93007a631ecc4fa2f84d35c2f20cdb0/HyBridge-1.0.0-1.8.9_ornithe.jar
-jars/HyChatter/c8714ae93a09dbe7835e6d8aeb4d29ab11c1d0a4/HyChatter-1.0.0-1.8.9_ornithe.jar
+jars/HyBedWars/4b7937ea09c289abd4641d8c9fd3d7e357247919/HyBedWars-1.0.0-1.8.9_forge.jar
+jars/HyBedWars/4b7937ea09c289abd4641d8c9fd3d7e357247919/HyBedWars-1.0.0-1.8.9_ornithe.jar
+jars/HyBridge/aa0102c62dbd870fdf89e31e6bb525a9cd67137f/HyBridge-1.0.0-1.8.9_forge.jar
+jars/HyBridge/aa0102c62dbd870fdf89e31e6bb525a9cd67137f/HyBridge-1.0.0-1.8.9_ornithe.jar
+jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_forge.jar
+jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_forge.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_ornithe.jar
 jars/HyMod/79ba39fce0a3fc4cd007fea3b16a159b57811694/HyInfo-3.0.0-1.8.9_forge.jar
@@ -33,7 +34,7 @@ jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
 jars/Pulse/998a5c425367f2ca590199e0247dc2f44ff71bb7/pulse-1.0.0.jar
 jars/REDACTION/e8ab57c2aa13fa20d221cd92ad9d29ac16e218f0/redaction-2.0.1+1.8.9.jar
 jars/RenderTweaks/b385e5682baa52808cfbb8d124aade3b1696f755/rendertweaks-2.0.1+1.8.9-fabric.jar
-jars/Sarcio/69dd16794441ad89a40e90a6c1d3811d77b65db7/Sarcio-1.0.0+fb97a40.jar
+jars/Sarcio/708487c000a58d41bae5515fa0ee17db056c7e50/Sarcio-1.0.0+e82b2bd.jar
 jars/Sciophobia/8b4a1a0e5082c59426bd192ca9f6eee60e5a5a16/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/377f1e69396017c186cb92c7e1a9e92373b5e513/ScreenshotMessageEnhancer-2.5.0-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/377f1e69396017c186cb92c7e1a9e92373b5e513/ScreenshotMessageEnhancer-2.5.0-1.8.9_ornithe.jar
