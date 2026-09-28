@@ -2,6 +2,7 @@ jars/Argentum/b02b378c03ec5ad9899edaef4e09e978606a1e4e/argentum-1.0.0+dc68da8.ja
 jars/Argentum/b02b378c03ec5ad9899edaef4e09e978606a1e4e/argentum-extras-1.0.0+dc68da8.jar
 jars/Argentum/b02b378c03ec5ad9899edaef4e09e978606a1e4e/buildSrc.jar
 jars/Argentum/b02b378c03ec5ad9899edaef4e09e978606a1e4e/cera-1.0.0+dc68da8.jar
+jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
@@ -11,6 +12,7 @@ jars/ConfirmResetKeys/96bcc86bd3d6274f910ecbfad222b6a7ff4fee7b/confirmresetkeys-
 jars/CrosshairTweaks/c4467ed2b8c06d0a84c7bf98580488d4e079cf87/crosshairtweaks-2.0.1+1.8.9-fabric.jar
 jars/DroppedItemTweaks/3a4518b6d14509ac0bbc239481dff64e2add556d/droppeditemtweaks-2.0.0+1.8.9-fabric.jar
 jars/Dynamic-FPS/99f3c39210410354c3d148ee752797eb5c84f354/dynamic-fps-1.0.0.jar
+jars/EvergreenHUD/11d6a6021727ca5ab868b43929ac08c5cae87553/evergreenhud-3.9.4+1.8.9.jar
 jars/GlintColorizer/a4192ff13f9b4e5f032a34dfe04e950b53a2bb84/glintcolorizer-3.0.0+1.8.9.jar
 jars/HyBedWars/4b7937ea09c289abd4641d8c9fd3d7e357247919/HyBedWars-1.0.0-1.8.9_forge.jar
 jars/HyBedWars/4b7937ea09c289abd4641d8c9fd3d7e357247919/HyBedWars-1.0.0-1.8.9_ornithe.jar
@@ -30,6 +32,7 @@ jars/OverlayTweaks/39ca4b81ce3233e8a205c527b6aefc8844b660f8/overlaytweaks-2.0.0+
 jars/PolyBlur/cff1b1f30e6b432ac711866119af1fc63545ba67/polyblur-2.2.1+1.8.9.jar
 jars/PolyPlus/a6b5bbe19114fa60281944cd318d2404481237e9/polyplus-1.2.32+1.8.9.jar
 jars/PolySprint/28f62efc22f2516bb9196c32fedb07224e77a91c/polysprint-1.3.1+1.8.9.jar
+jars/PolyTime/eea1f7e94398b4ec022bba77d5cbbda90cf5cbea/polytime-1.3.1+1.8.9.jar
 jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
 jars/Pulse/998a5c425367f2ca590199e0247dc2f44ff71bb7/pulse-1.0.0.jar
 jars/REDACTION/e8ab57c2aa13fa20d221cd92ad9d29ac16e218f0/redaction-2.0.1+1.8.9.jar
