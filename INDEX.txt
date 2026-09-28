@@ -20,8 +20,8 @@ jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_fo
 jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_forge.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_ornithe.jar
-jars/HyMod/79ba39fce0a3fc4cd007fea3b16a159b57811694/HyInfo-3.0.0-1.8.9_forge.jar
-jars/HyMod/79ba39fce0a3fc4cd007fea3b16a159b57811694/HyInfo-3.0.0-1.8.9_ornithe.jar
+jars/HyMod/a21a971b6318e5101b99fe9d4cf37efff2433738/HyInfo-3.0.0-1.8.9_forge.jar
+jars/HyMod/a21a971b6318e5101b99fe9d4cf37efff2433738/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
 jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/974c21c10ff65a02fb2bd4aaae4e7def853528b5/O-ItemPhysicLite-1.0.0.jar
