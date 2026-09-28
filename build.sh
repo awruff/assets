@@ -9,7 +9,12 @@ mapfile -t JDKS < <(
   { env | sed -n 's/^JAVA_HOME_[0-9]*_[A-Za-z0-9]*=//p'
     ls -d /usr/lib/jvm/*/ 2>/dev/null | sed 's:/$::'
     [ -n "${JAVA_HOME:-}" ] && echo "$JAVA_HOME"
-  } | sort -u | while read -r d; do [ -x "$d/bin/javac" ] && echo "$d"; done
+  } | sort -u | while read -r d; do
+      [ -x "$d/bin/javac" ] || continue
+      # Gradle 9 needs JVM 17+; older JDKs only waste an attempt and clobber the log.
+      v=$("$d/bin/javac" -version 2>&1 | sed 's/javac \([0-9]*\).*/\1/')
+      [ "${v:-0}" -ge 17 ] && echo "$d"
+    done
 )
 [ ${#JDKS[@]} -eq 0 ] && { echo "no JDK found"; exit 1; }
 echo "JDKs: ${JDKS[*]}"
