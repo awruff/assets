@@ -27,7 +27,7 @@ jars/HyMod/a21a971b6318e5101b99fe9d4cf37efff2433738/HyInfo-3.0.0-1.8.9_ornithe.j
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
 jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/974c21c10ff65a02fb2bd4aaae4e7def853528b5/O-ItemPhysicLite-1.0.0.jar
-jars/OneConfig/b7bcfa75e859c34de77f20c0146553c9c86ca34e/OneConfig-1.8.9-ornithe-1.2.7.jar
+jars/OneConfig/ceded8e8d70abb9db71c1dbaf3fbe260603770c6/OneConfig-1.8.9-ornithe-1.2.7.jar
 jars/OverlayTweaks/39ca4b81ce3233e8a205c527b6aefc8844b660f8/overlaytweaks-2.0.0+1.8.9-fabric.jar
 jars/PolyBlur/cff1b1f30e6b432ac711866119af1fc63545ba67/polyblur-2.2.1+1.8.9.jar
 jars/PolyPlus/a6b5bbe19114fa60281944cd318d2404481237e9/polyplus-1.2.32+1.8.9.jar
