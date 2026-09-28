@@ -39,3 +39,6 @@ https://github.com/Polyfrost/Dynamic-FPS.git	1.8.9
 https://github.com/awruff/SmoothScrollingRefurbished.git	main
 https://codeberg.org/awruff/Tipper.git	master
 https://github.com/Polyfrost/OneConfig.git	legacy	bootstrap/versions/
+https://github.com/Polyfrost/BehindYouV3.git	legacy
+https://github.com/Polyfrost/EvergreenHUD.git	legacy
+https://github.com/Polyfrost/PolyTime.git	legacy
