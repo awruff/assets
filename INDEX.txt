@@ -5,7 +5,7 @@ jars/Argentum/31c3c437a5eebf91b8ef1943ec7d762286be8ffd/cera-1.0.0+c59ef34.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
-jars/Blur/63e8ea60f9f9b2a8b6dfc84df927c0b82363af2e/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
+jars/Blur/2c637cea6ca6982db70e04d9945ecf60b083a72b/LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar
 jars/Chatting/50348264656a4ebece0a3570cf2babbf7835d0bf/chatting-3.1.5+1.8.9.jar
 jars/ColorSaturation/29378db76259f5410e434c938a35ae60635c6c7f/colorsaturation-1.3.0+1.8.9.jar
 jars/ConfirmResetKeys/96bcc86bd3d6274f910ecbfad222b6a7ff4fee7b/confirmresetkeys-1.0.1+1.8.9-fabric.jar
@@ -22,12 +22,12 @@ jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_fo
 jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_forge.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_ornithe.jar
-jars/HyMod/d876950f03cd16a44273acae816b069d786946da/HyInfo-3.0.0-1.8.9_forge.jar
-jars/HyMod/d876950f03cd16a44273acae816b069d786946da/HyInfo-3.0.0-1.8.9_ornithe.jar
+jars/HyMod/7ede3fbe0b23f7133c8df0593855bced15d8a518/HyInfo-3.0.0-1.8.9_forge.jar
+jars/HyMod/7ede3fbe0b23f7133c8df0593855bced15d8a518/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/MountOpacity/123dcbe172276c1a131af8583747b2ed881d9aef/mountopacity-1.2.2+1.8.9-fabric.jar
 jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/8e86e565df11a743eab6ae1dbcbc7458ef3db6eb/O-ItemPhysicLite-1.1.0.jar
-jars/OneConfig/94659440733bfb82e38a33dccad7b84a9192a64b/OneConfig-1.8.9-ornithe-1.2.7.jar
+jars/OneConfig/46e10d991248d043c48d07b1d9b0177b711e0646/OneConfig-1.8.9-ornithe-1.2.8.jar
 jars/OverlayTweaks/39ca4b81ce3233e8a205c527b6aefc8844b660f8/overlaytweaks-2.0.0+1.8.9-fabric.jar
 jars/PolyBlur/cff1b1f30e6b432ac711866119af1fc63545ba67/polyblur-2.2.1+1.8.9.jar
 jars/PolyPlus/a6b5bbe19114fa60281944cd318d2404481237e9/polyplus-1.2.32+1.8.9.jar
