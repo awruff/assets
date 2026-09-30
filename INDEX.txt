@@ -16,8 +16,8 @@ jars/EvergreenHUD/11d6a6021727ca5ab868b43929ac08c5cae87553/evergreenhud-3.9.4+1.
 jars/GlintColorizer/a4192ff13f9b4e5f032a34dfe04e950b53a2bb84/glintcolorizer-3.0.0+1.8.9.jar
 jars/HyBedWars/4b7937ea09c289abd4641d8c9fd3d7e357247919/HyBedWars-1.0.0-1.8.9_forge.jar
 jars/HyBedWars/4b7937ea09c289abd4641d8c9fd3d7e357247919/HyBedWars-1.0.0-1.8.9_ornithe.jar
-jars/HyBridge/aa0102c62dbd870fdf89e31e6bb525a9cd67137f/HyBridge-1.0.0-1.8.9_forge.jar
-jars/HyBridge/aa0102c62dbd870fdf89e31e6bb525a9cd67137f/HyBridge-1.0.0-1.8.9_ornithe.jar
+jars/HyBridge/7a2f642ac9e0e95e8bd31e5b31549e657a8e7916/HyBridge-1.0.0-1.8.9_forge.jar
+jars/HyBridge/7a2f642ac9e0e95e8bd31e5b31549e657a8e7916/HyBridge-1.0.0-1.8.9_ornithe.jar
 jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_forge.jar
 jars/HyChatter/e46bb2faea6980d91101f037fda5fdc6dfa26f67/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/e1935c949a0011b46eab8c01edc81d5e1e8c0e32/HyLobby-1.0.0-1.8.9_forge.jar

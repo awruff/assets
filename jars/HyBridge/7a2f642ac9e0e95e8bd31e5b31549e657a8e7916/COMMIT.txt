@@ -1,0 +1,4 @@
+main
+7a2f642ac9e0e95e8bd31e5b31549e657a8e7916
+2026-09-30T01:07:15+02:00
+fix blocks darkening flickering when new block was placed
