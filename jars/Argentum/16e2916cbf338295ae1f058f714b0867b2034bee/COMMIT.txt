@@ -1,0 +1,4 @@
+main
+16e2916cbf338295ae1f058f714b0867b2034bee
+2026-09-30T19:45:03-04:00
+turn off safe chunk edges by default servers are stupid

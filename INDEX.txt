@@ -1,7 +1,7 @@
-jars/Argentum/ce7c4057f376506851504ceb477c6f790cc85721/argentum-1.0.0+47f4d37.jar
-jars/Argentum/ce7c4057f376506851504ceb477c6f790cc85721/argentum-extras-1.0.0+47f4d37.jar
-jars/Argentum/ce7c4057f376506851504ceb477c6f790cc85721/buildSrc.jar
-jars/Argentum/ce7c4057f376506851504ceb477c6f790cc85721/cera-1.0.0+47f4d37.jar
+jars/Argentum/16e2916cbf338295ae1f058f714b0867b2034bee/argentum-1.0.0+db91ba3.jar
+jars/Argentum/16e2916cbf338295ae1f058f714b0867b2034bee/argentum-extras-1.0.0+db91ba3.jar
+jars/Argentum/16e2916cbf338295ae1f058f714b0867b2034bee/buildSrc.jar
+jars/Argentum/16e2916cbf338295ae1f058f714b0867b2034bee/cera-1.0.0+db91ba3.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
 jars/Better-Screens/0d44e46ce390ca388313e6ad7d60d3f8d016d339/betterscreens-2.0.14+1.8.9-fabric.jar
 jars/BetterNightVision/43be3e8c4bdcfb7a03d8b8dfc59d915294e46fa2/betternightvision-1.0.5+1.8.9-fabric.jar
@@ -37,7 +37,7 @@ jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
 jars/Pulse/1d202b831157e843b1961b1216a542585b838985/pulse-1.0.0.jar
 jars/REDACTION/e8ab57c2aa13fa20d221cd92ad9d29ac16e218f0/redaction-2.0.1+1.8.9.jar
 jars/RenderTweaks/b385e5682baa52808cfbb8d124aade3b1696f755/rendertweaks-2.0.1+1.8.9-fabric.jar
-jars/Sarcio/a518a972ca8d6b620d63da85ddbe1866b2fcaa08/Sarcio-1.0.0+dc68da8.jar
+jars/Sarcio/2cafa11fe50e5959fbbffa0bf46296a6fc1e04ff/Sarcio-1.0.0+db91ba3.jar
 jars/Sciophobia/8b4a1a0e5082c59426bd192ca9f6eee60e5a5a16/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/377f1e69396017c186cb92c7e1a9e92373b5e513/ScreenshotMessageEnhancer-2.5.0-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/377f1e69396017c186cb92c7e1a9e92373b5e513/ScreenshotMessageEnhancer-2.5.0-1.8.9_ornithe.jar
