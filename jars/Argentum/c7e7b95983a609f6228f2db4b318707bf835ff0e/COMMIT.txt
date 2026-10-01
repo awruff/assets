@@ -1,0 +1,4 @@
+main
+c7e7b95983a609f6228f2db4b318707bf835ff0e
+2026-09-30T22:13:45-04:00
+restore the bound texture and color after flushing item icons
