@@ -29,8 +29,8 @@ jars/Numerical-Enchantments/f67285092c27a2495c26059878319eab3ff73bcd/numericalen
 jars/O-ItemPhysicLite/8e86e565df11a743eab6ae1dbcbc7458ef3db6eb/O-ItemPhysicLite-1.1.0.jar
 jars/OneConfig/b894e89c6f45ab91eb5ecada3eff09ad2d5a378d/OneConfig-1.8.9-ornithe-1.2.13.jar
 jars/OverlayTweaks/def0d0bd21c9f2526d11d411b7e2d07745527799/overlaytweaks-2.0.1+1.8.9-fabric.jar
-jars/PolyBlur/5194a07445acca783dcfcc6ca6cf0f4b7a7fb8ab/polyblur-2.2.3+1.8.9.jar
-jars/PolyPlus/54e50cf7954623a5fea69f363bec6f59d5a6b4ac/polyplus-1.2.46+1.8.9.jar
+jars/PolyBlur/5eed8ead0f1dedc74f0452c5b18f2442597b5efb/polyblur-2.2.4+1.8.9.jar
+jars/PolyPlus/b04dc79faffc592e2cc543acb2ea73421dee5fcc/polyplus-1.2.48+1.8.9.jar
 jars/PolySprint/bebb0b06b50561c60bcafe2a4eb00699bd8a8776/polysprint-1.3.1+1.8.9.jar
 jars/PolyTime/bb861ab784777c18492ddddc8585cadf4a26754c/polytime-1.3.2+1.8.9.jar
 jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
