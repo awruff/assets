@@ -1,0 +1,4 @@
+legacy
+1cbef319226e1bd944dc68c1edccce2bcf55c5d1
+2026-10-02T11:02:58Z
+build(modrinth): remove fabric-api dep
