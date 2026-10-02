@@ -1,0 +1,4 @@
+1.8.9
+252b5cc08700ceb1ca0db78b100171ef3e466ac8
+2026-10-01T19:53:28-07:00
+update mod publish plugin in hopes it doesnt upload malformed jars
