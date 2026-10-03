@@ -1,0 +1,4 @@
+1.8.9
+74c483f90fb517abfdb6ec83cea8d0c76c4bf425
+2026-10-02T19:58:53-07:00
+fix only working for horses
