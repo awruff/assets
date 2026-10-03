@@ -30,7 +30,7 @@ jars/O-ItemPhysicLite/8e86e565df11a743eab6ae1dbcbc7458ef3db6eb/O-ItemPhysicLite-
 jars/OneConfig/772baea52286fa89ebce7bae5738f5542aff4fa5/OneConfig-1.8.9-ornithe-1.2.16.jar
 jars/OverlayTweaks/9b73af3c9da242796a897f905c748fa805447dbc/overlaytweaks-2.0.1+1.8.9-fabric.jar
 jars/PolyBlur/5eed8ead0f1dedc74f0452c5b18f2442597b5efb/polyblur-2.2.4+1.8.9.jar
-jars/PolyPlus/b04dc79faffc592e2cc543acb2ea73421dee5fcc/polyplus-1.2.48+1.8.9.jar
+jars/PolyPlus/a3942e7b7288c586e8707eb75adb85e3c88f0862/polyplus-1.2.49+1.8.9.jar
 jars/PolySprint/bebb0b06b50561c60bcafe2a4eb00699bd8a8776/polysprint-1.3.1+1.8.9.jar
 jars/PolyTime/bb861ab784777c18492ddddc8585cadf4a26754c/polytime-1.3.2+1.8.9.jar
 jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
@@ -49,7 +49,7 @@ jars/SoundTweaks/2b3c7fb79cd4ee4215aeada06d57059cd28dc7cf/soundtweaks-1.0.1+1.8.
 jars/Tipper/1a4f6ecdc5493390fb603a8b39807ce766cfc3e7/tipper-1.0.0+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/b0465116bd492255b4eb0c310e576c833c71873e/BetterHurtCam-1.15.0+mc1.8.9-ornithe.jar
-jars/lenis/dd7a4af22a9c1609fb11301d4a8357ba16548b49/fabric-0.1.8.jar
-jars/lenis/dd7a4af22a9c1609fb11301d4a8357ba16548b49/pylon-0.1.8.jar
-jars/lenis/dd7a4af22a9c1609fb11301d4a8357ba16548b49/pylon-build-logic.jar
-jars/lenis/dd7a4af22a9c1609fb11301d4a8357ba16548b49/vanilla-0.1.8.jar
+jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/fabric-0.1.9.jar
+jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/pylon-0.1.9.jar
+jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/pylon-build-logic.jar
+jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/vanilla-0.1.9.jar
