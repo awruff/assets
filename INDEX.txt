@@ -1,7 +1,7 @@
-jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/argentum-1.0.0+a88c04a.jar
-jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/argentum-extras-1.0.0+a88c04a.jar
-jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/buildSrc.jar
-jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/cera-1.0.0+a88c04a.jar
+jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/argentum-1.0.0+1678836.jar
+jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/argentum-extras-1.0.0+1678836.jar
+jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/buildSrc.jar
+jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/cera-1.0.0+1678836.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
 jars/Better-Screens/bd6dc41661b2f3cb9dcfc5f6403e23a5ef2bb748/betterscreens-2.1.1+1.8.9-fabric.jar
 jars/BetterNightVision/a1f520987634378c953d099b9d1b753b9f722aa2/betternightvision-1.0.5+1.8.9-fabric.jar
@@ -22,8 +22,8 @@ jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_fo
 jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/c6ffe3eb5cfccd9219f882a823f9dd3d24c22efe/HyLobby-1.0.0-1.8.9_forge.jar
 jars/HyLobby/c6ffe3eb5cfccd9219f882a823f9dd3d24c22efe/HyLobby-1.0.0-1.8.9_ornithe.jar
-jars/HyMod/80502c23bfa5e1d5d3a3d70cf950468c6c993554/HyInfo-3.0.0-1.8.9_forge.jar
-jars/HyMod/80502c23bfa5e1d5d3a3d70cf950468c6c993554/HyInfo-3.0.0-1.8.9_ornithe.jar
+jars/HyMod/0ca5cb5426937acaf66e55d0249fbee0f6101192/HyInfo-3.0.0-1.8.9_forge.jar
+jars/HyMod/0ca5cb5426937acaf66e55d0249fbee0f6101192/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/MountOpacity/74c483f90fb517abfdb6ec83cea8d0c76c4bf425/mountopacity-1.2.3+1.8.9-fabric.jar
 jars/Numerical-Enchantments/8cb2e5bf30459c455b907c9758b680314e0edeaf/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/8e86e565df11a743eab6ae1dbcbc7458ef3db6eb/O-ItemPhysicLite-1.1.0.jar
