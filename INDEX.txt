@@ -3,7 +3,7 @@ jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/argentum-extras-1.0.0+a88
 jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/buildSrc.jar
 jars/Argentum/7059e333b92859d18eac1982f5bfedc5c447f839/cera-1.0.0+a88c04a.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
-jars/Better-Screens/8032c40cf3d125b7f8cd6b2c861f093a115847f4/betterscreens-2.1.0+1.8.9-fabric.jar
+jars/Better-Screens/bd6dc41661b2f3cb9dcfc5f6403e23a5ef2bb748/betterscreens-2.1.1+1.8.9-fabric.jar
 jars/BetterNightVision/a1f520987634378c953d099b9d1b753b9f722aa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/7693f7673c5975b0e3ce1e06704670bd55e17015/LegacyGuiBlur-6.3.4+mc1.8.9-fabric.jar
 jars/Chatting/0145e4b96ffe8972559af424f96a5b1be523d838/chatting-3.2.2+1.8.9.jar
