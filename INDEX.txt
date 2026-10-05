@@ -37,7 +37,7 @@ jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
 jars/Pulse/1d202b831157e843b1961b1216a542585b838985/pulse-1.0.0.jar
 jars/REDACTION/1cbef319226e1bd944dc68c1edccce2bcf55c5d1/redaction-2.1.0+1.8.9.jar
 jars/RenderTweaks/ce2ceefa5946bfbe65d9d3f0e68a3f17928fef5a/rendertweaks-2.0.2+1.8.9-fabric.jar
-jars/Sarcio/0acf5032ab690e2e93d884345525cea5d667b372/Sarcio-1.0.0+a88c04a.jar
+jars/Sarcio/61f8fc8007ca236185a58bc0373d281bbef78952/Sarcio-1.0.0+10e2205.jar
 jars/Sciophobia/ad8c868c94b9317363ac3eb15916bbc1c8826878/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_ornithe.jar
