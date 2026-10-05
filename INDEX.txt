@@ -22,8 +22,8 @@ jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_fo
 jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/c6ffe3eb5cfccd9219f882a823f9dd3d24c22efe/HyLobby-1.0.0-1.8.9_forge.jar
 jars/HyLobby/c6ffe3eb5cfccd9219f882a823f9dd3d24c22efe/HyLobby-1.0.0-1.8.9_ornithe.jar
-jars/HyMod/0ca5cb5426937acaf66e55d0249fbee0f6101192/HyInfo-3.0.0-1.8.9_forge.jar
-jars/HyMod/0ca5cb5426937acaf66e55d0249fbee0f6101192/HyInfo-3.0.0-1.8.9_ornithe.jar
+jars/HyMod/cf2c55d9c1065c2021368cf97f34819b6a8e757e/HyInfo-3.0.0-1.8.9_forge.jar
+jars/HyMod/cf2c55d9c1065c2021368cf97f34819b6a8e757e/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/MountOpacity/74c483f90fb517abfdb6ec83cea8d0c76c4bf425/mountopacity-1.2.3+1.8.9-fabric.jar
 jars/Numerical-Enchantments/8cb2e5bf30459c455b907c9758b680314e0edeaf/numericalenchantments-1.0.2+1.8.9-fabric.jar
 jars/O-ItemPhysicLite/8e86e565df11a743eab6ae1dbcbc7458ef3db6eb/O-ItemPhysicLite-1.1.0.jar
@@ -49,7 +49,7 @@ jars/SoundTweaks/2b3c7fb79cd4ee4215aeada06d57059cd28dc7cf/soundtweaks-1.0.1+1.8.
 jars/Tipper/1a4f6ecdc5493390fb603a8b39807ce766cfc3e7/tipper-1.0.0+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/b0465116bd492255b4eb0c310e576c833c71873e/BetterHurtCam-1.15.0+mc1.8.9-ornithe.jar
-jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/fabric-0.1.9.jar
-jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/pylon-0.1.9.jar
-jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/pylon-build-logic.jar
-jars/lenis/5780a23dd0261d35c33d5b960d51f2e646c7876a/vanilla-0.1.9.jar
+jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/fabric-0.2.0.jar
+jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/pylon-0.2.0.jar
+jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/pylon-build-logic.jar
+jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/vanilla-0.2.0.jar
