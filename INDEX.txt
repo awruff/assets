@@ -1,7 +1,7 @@
-jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/argentum-1.0.0+1678836.jar
-jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/argentum-extras-1.0.0+1678836.jar
-jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/buildSrc.jar
-jars/Argentum/ce7ab4ed9f39ec72010b6474ca8a9188a22bc73b/cera-1.0.0+1678836.jar
+jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/argentum-1.0.1+0137211.jar
+jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/argentum-extras-1.0.1+0137211.jar
+jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/buildSrc.jar
+jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/cera-1.0.1+0137211.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
 jars/Better-Screens/bd6dc41661b2f3cb9dcfc5f6403e23a5ef2bb748/betterscreens-2.1.1+1.8.9-fabric.jar
 jars/BetterNightVision/a1f520987634378c953d099b9d1b753b9f722aa2/betternightvision-1.0.5+1.8.9-fabric.jar
@@ -18,8 +18,8 @@ jars/HyBedWars/b3de5a00c5620160c7e44e5db1ee0538a45e3c23/HyBedWars-1.0.0-1.8.9_fo
 jars/HyBedWars/b3de5a00c5620160c7e44e5db1ee0538a45e3c23/HyBedWars-1.0.0-1.8.9_ornithe.jar
 jars/HyBridge/1cc05144277bd5327843ef3587e480e19195a623/HyBridge-1.0.0-1.8.9_forge.jar
 jars/HyBridge/1cc05144277bd5327843ef3587e480e19195a623/HyBridge-1.0.0-1.8.9_ornithe.jar
-jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_forge.jar
-jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_ornithe.jar
+jars/HyChatter/006103b8f30ecd181a3116b5f079808198956699/HyChatter-1.0.0-1.8.9_forge.jar
+jars/HyChatter/006103b8f30ecd181a3116b5f079808198956699/HyChatter-1.0.0-1.8.9_ornithe.jar
 jars/HyLobby/4f4f064dbc68ec9bcca2dc975a431661b8244fff/HyLobby-1.0.0-1.8.9_forge.jar
 jars/HyLobby/4f4f064dbc68ec9bcca2dc975a431661b8244fff/HyLobby-1.0.0-1.8.9_ornithe.jar
 jars/HyMod/cf2c55d9c1065c2021368cf97f34819b6a8e757e/HyInfo-3.0.0-1.8.9_forge.jar
