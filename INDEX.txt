@@ -20,8 +20,8 @@ jars/HyBridge/1cc05144277bd5327843ef3587e480e19195a623/HyBridge-1.0.0-1.8.9_forg
 jars/HyBridge/1cc05144277bd5327843ef3587e480e19195a623/HyBridge-1.0.0-1.8.9_ornithe.jar
 jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_forge.jar
 jars/HyChatter/46a8bf32bc1abc4189a12bfedcdcbf0d1a552efd/HyChatter-1.0.0-1.8.9_ornithe.jar
-jars/HyLobby/c6ffe3eb5cfccd9219f882a823f9dd3d24c22efe/HyLobby-1.0.0-1.8.9_forge.jar
-jars/HyLobby/c6ffe3eb5cfccd9219f882a823f9dd3d24c22efe/HyLobby-1.0.0-1.8.9_ornithe.jar
+jars/HyLobby/4f4f064dbc68ec9bcca2dc975a431661b8244fff/HyLobby-1.0.0-1.8.9_forge.jar
+jars/HyLobby/4f4f064dbc68ec9bcca2dc975a431661b8244fff/HyLobby-1.0.0-1.8.9_ornithe.jar
 jars/HyMod/cf2c55d9c1065c2021368cf97f34819b6a8e757e/HyInfo-3.0.0-1.8.9_forge.jar
 jars/HyMod/cf2c55d9c1065c2021368cf97f34819b6a8e757e/HyInfo-3.0.0-1.8.9_ornithe.jar
 jars/MountOpacity/74c483f90fb517abfdb6ec83cea8d0c76c4bf425/mountopacity-1.2.3+1.8.9-fabric.jar
@@ -49,7 +49,7 @@ jars/SoundTweaks/2b3c7fb79cd4ee4215aeada06d57059cd28dc7cf/soundtweaks-1.0.1+1.8.
 jars/Tipper/bd7706b552beb9cfec99db197f2b32878332c398/tipper-1.0.1+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/94eb8b594cedb65fa0cf2727c6b252c65424ddad/BetterHurtCam-1.15.1+mc1.8.9-ornithe.jar
-jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/fabric-0.2.0.jar
-jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/pylon-0.2.0.jar
-jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/pylon-build-logic.jar
-jars/lenis/0344c63efd6ad27f3a3e06194b3d2af4fa638d45/vanilla-0.2.0.jar
+jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/fabric-0.2.0.jar
+jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/pylon-0.2.0.jar
+jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/pylon-build-logic.jar
+jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/vanilla-0.2.0.jar

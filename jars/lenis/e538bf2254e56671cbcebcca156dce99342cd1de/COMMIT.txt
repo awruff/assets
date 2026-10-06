@@ -1,0 +1,4 @@
+main
+e538bf2254e56671cbcebcca156dce99342cd1de
+2026-10-06T18:12:34+02:00
+Fix HiDPI sensitivity (#7)
