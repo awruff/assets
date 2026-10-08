@@ -37,7 +37,7 @@ jars/PolyZoom/8d62ab49c40d23002e46a292e9764cb0c13d791c/PolyZoom-1.0.0.jar
 jars/Pulse/1d202b831157e843b1961b1216a542585b838985/pulse-1.0.0.jar
 jars/REDACTION/1cbef319226e1bd944dc68c1edccce2bcf55c5d1/redaction-2.1.0+1.8.9.jar
 jars/RenderTweaks/ce2ceefa5946bfbe65d9d3f0e68a3f17928fef5a/rendertweaks-2.0.2+1.8.9-fabric.jar
-jars/Sarcio/9ace0df8a9af3f71cccd228b95102f05296c688b/Sarcio-1.0.0+bce0ffe.jar
+jars/Sarcio/3680164f2c2bda68e8d2fc7195f9900aeeaf9e66/Sarcio-1.0.0+92867f1.jar
 jars/Sciophobia/ad8c868c94b9317363ac3eb15916bbc1c8826878/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_ornithe.jar
@@ -49,7 +49,7 @@ jars/SoundTweaks/2b3c7fb79cd4ee4215aeada06d57059cd28dc7cf/soundtweaks-1.0.1+1.8.
 jars/Tipper/bd7706b552beb9cfec99db197f2b32878332c398/tipper-1.0.1+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/94eb8b594cedb65fa0cf2727c6b252c65424ddad/BetterHurtCam-1.15.1+mc1.8.9-ornithe.jar
-jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/fabric-0.2.1.jar
-jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/pylon-0.2.1.jar
-jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/pylon-build-logic.jar
-jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/vanilla-0.2.1.jar
+jars/lenis/9490b62269937d976b20b36dc9533f391dafc355/fabric-0.2.1.jar
+jars/lenis/9490b62269937d976b20b36dc9533f391dafc355/pylon-0.2.1.jar
+jars/lenis/9490b62269937d976b20b36dc9533f391dafc355/pylon-build-logic.jar
+jars/lenis/9490b62269937d976b20b36dc9533f391dafc355/vanilla-0.2.1.jar

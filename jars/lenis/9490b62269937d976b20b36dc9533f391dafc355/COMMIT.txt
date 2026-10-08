@@ -1,0 +1,4 @@
+main
+9490b62269937d976b20b36dc9533f391dafc355
+2026-10-08T22:00:38+02:00
+fix: exclusive fullscreen on macOS
