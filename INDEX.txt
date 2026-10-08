@@ -49,7 +49,7 @@ jars/SoundTweaks/2b3c7fb79cd4ee4215aeada06d57059cd28dc7cf/soundtweaks-1.0.1+1.8.
 jars/Tipper/bd7706b552beb9cfec99db197f2b32878332c398/tipper-1.0.1+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/94eb8b594cedb65fa0cf2727c6b252c65424ddad/BetterHurtCam-1.15.1+mc1.8.9-ornithe.jar
-jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/fabric-0.2.0.jar
-jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/pylon-0.2.0.jar
-jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/pylon-build-logic.jar
-jars/lenis/e538bf2254e56671cbcebcca156dce99342cd1de/vanilla-0.2.0.jar
+jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/fabric-0.2.1.jar
+jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/pylon-0.2.1.jar
+jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/pylon-build-logic.jar
+jars/lenis/b58aadc6df903103c917c62d1fe7dc6215344608/vanilla-0.2.1.jar

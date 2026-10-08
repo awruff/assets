@@ -1,0 +1,4 @@
+main
+b58aadc6df903103c917c62d1fe7dc6215344608
+2026-10-08T14:59:14+02:00
+fix borderless not working sometimes (#9)
