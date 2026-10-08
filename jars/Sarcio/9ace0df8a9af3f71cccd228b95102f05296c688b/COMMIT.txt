@@ -1,0 +1,4 @@
+main
+9ace0df8a9af3f71cccd228b95102f05296c688b
+2026-10-07T20:52:28-04:00
+allow disabling mixins from other mods

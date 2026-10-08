@@ -1,7 +1,7 @@
-jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/argentum-1.0.1+0137211.jar
-jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/argentum-extras-1.0.1+0137211.jar
-jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/buildSrc.jar
-jars/Argentum/2e3eac0a782334499fadfe985abf3475041a2ccd/cera-1.0.1+0137211.jar
+jars/Argentum/416aaba8414c309cde6004b4ece9d3853121fe05/argentum-1.0.1+bce0ffe.jar
+jars/Argentum/416aaba8414c309cde6004b4ece9d3853121fe05/argentum-extras-1.0.1+bce0ffe.jar
+jars/Argentum/416aaba8414c309cde6004b4ece9d3853121fe05/buildSrc.jar
+jars/Argentum/416aaba8414c309cde6004b4ece9d3853121fe05/cera-1.0.1+bce0ffe.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
 jars/Better-Screens/bd6dc41661b2f3cb9dcfc5f6403e23a5ef2bb748/betterscreens-2.1.1+1.8.9-fabric.jar
 jars/BetterNightVision/a1f520987634378c953d099b9d1b753b9f722aa2/betternightvision-1.0.5+1.8.9-fabric.jar
@@ -33,11 +33,11 @@ jars/PolyBlur/5eed8ead0f1dedc74f0452c5b18f2442597b5efb/polyblur-2.2.4+1.8.9.jar
 jars/PolyPlus/a3942e7b7288c586e8707eb75adb85e3c88f0862/polyplus-1.2.49+1.8.9.jar
 jars/PolySprint/bebb0b06b50561c60bcafe2a4eb00699bd8a8776/polysprint-1.3.1+1.8.9.jar
 jars/PolyTime/bb861ab784777c18492ddddc8585cadf4a26754c/polytime-1.3.2+1.8.9.jar
-jars/PolyZoom/bfee049958b99a87340aef750e68f727c6a65df3/PolyZoom-1.0.0.jar
+jars/PolyZoom/8d62ab49c40d23002e46a292e9764cb0c13d791c/PolyZoom-1.0.0.jar
 jars/Pulse/1d202b831157e843b1961b1216a542585b838985/pulse-1.0.0.jar
 jars/REDACTION/1cbef319226e1bd944dc68c1edccce2bcf55c5d1/redaction-2.1.0+1.8.9.jar
 jars/RenderTweaks/ce2ceefa5946bfbe65d9d3f0e68a3f17928fef5a/rendertweaks-2.0.2+1.8.9-fabric.jar
-jars/Sarcio/e163ff01bf6688bb1564facdb5eff531d4fd55a1/Sarcio-1.0.0+11b3d33.jar
+jars/Sarcio/9ace0df8a9af3f71cccd228b95102f05296c688b/Sarcio-1.0.0+bce0ffe.jar
 jars/Sciophobia/ad8c868c94b9317363ac3eb15916bbc1c8826878/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_ornithe.jar
