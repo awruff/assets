@@ -14,8 +14,8 @@ jars/DroppedItemTweaks/db618ffd8196c3be728c11a4f71f903d2922605e/droppeditemtweak
 jars/Dynamic-FPS/99f3c39210410354c3d148ee752797eb5c84f354/dynamic-fps-1.0.0.jar
 jars/EvergreenHUD/7a37c168bca80ab9fdb05c6e849a601202777627/evergreenhud-3.9.5+1.8.9.jar
 jars/GlintColorizer/133d498051d84b39ac6a88f604d11addd19fdc12/glintcolorizer-3.0.0+1.8.9.jar
-jars/HyBedWars/b3de5a00c5620160c7e44e5db1ee0538a45e3c23/HyBedWars-1.0.0-1.8.9_forge.jar
-jars/HyBedWars/b3de5a00c5620160c7e44e5db1ee0538a45e3c23/HyBedWars-1.0.0-1.8.9_ornithe.jar
+jars/HyBedWars/8694aa1c76cf62e1545c7f29980a6f9b36fafb23/HyBedWars-1.0.0-1.8.9_forge.jar
+jars/HyBedWars/8694aa1c76cf62e1545c7f29980a6f9b36fafb23/HyBedWars-1.0.0-1.8.9_ornithe.jar
 jars/HyBridge/1cc05144277bd5327843ef3587e480e19195a623/HyBridge-1.0.0-1.8.9_forge.jar
 jars/HyBridge/1cc05144277bd5327843ef3587e480e19195a623/HyBridge-1.0.0-1.8.9_ornithe.jar
 jars/HyChatter/b6255aa6d8470f5a574128f7272d1e255d5fd87d/HyChatter-1.0.0-1.8.9_forge.jar
@@ -46,7 +46,7 @@ jars/ShakeTweaks/a1cba2a118707c641a04d5063891504b8ed4271c/shaketweaks-1.2.3+1.8.
 jars/Smooth-Skies/17fdcbb789cb55f72a6421d5fbe8f05a76cb7312/smoothskies-2.12.2+1.8.9-fabric.jar
 jars/SmoothScrollingRefurbished/bbba0cfa0964799a945a2420d46a39409781a36f/smoothscrollingrefurbished-1.10.0+1.8.9.jar
 jars/SoundTweaks/2b3c7fb79cd4ee4215aeada06d57059cd28dc7cf/soundtweaks-1.0.1+1.8.9.jar
-jars/Tipper/bd7706b552beb9cfec99db197f2b32878332c398/tipper-1.0.1+mc1.8.9.jar
+jars/Tipper/fd0c1e91fbc93131030f149bcd63dbf3078388f5/tipper-1.0.2+mc1.8.9.jar
 jars/Tooltip-Scroll-Fabric/cee1f3ee3788aa9b5224d34bc00d6e76b3b6af36/Tooltip-Scroll-Ornithe-1.0.0.jar
 jars/betterhurtcam/94eb8b594cedb65fa0cf2727c6b252c65424ddad/BetterHurtCam-1.15.1+mc1.8.9-ornithe.jar
 jars/lenis/9490b62269937d976b20b36dc9533f391dafc355/fabric-0.2.1.jar
