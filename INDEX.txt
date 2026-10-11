@@ -1,9 +1,9 @@
-jars/Argentum/d8e85c2873e267514d102a1ecffe151faa392470/argentum-1.0.1+8c689e0.jar
-jars/Argentum/d8e85c2873e267514d102a1ecffe151faa392470/argentum-extras-1.0.1+8c689e0.jar
-jars/Argentum/d8e85c2873e267514d102a1ecffe151faa392470/buildSrc.jar
-jars/Argentum/d8e85c2873e267514d102a1ecffe151faa392470/cera-1.0.1+8c689e0.jar
+jars/Argentum/f5df701d20a9f8541c609f22006982711a7d5f40/argentum-1.0.1+7b6a590.jar
+jars/Argentum/f5df701d20a9f8541c609f22006982711a7d5f40/argentum-extras-1.0.1+7b6a590.jar
+jars/Argentum/f5df701d20a9f8541c609f22006982711a7d5f40/buildSrc.jar
+jars/Argentum/f5df701d20a9f8541c609f22006982711a7d5f40/cera-1.0.1+7b6a590.jar
 jars/BehindYouV3/d895b4d207f85c234f96521bdfeb2cc6c40164cf/behindyouv3-3.5.0+1.8.9.jar
-jars/Better-Screens/bd6dc41661b2f3cb9dcfc5f6403e23a5ef2bb748/betterscreens-2.1.1+1.8.9-fabric.jar
+jars/Better-Screens/3bfc89581e3b7ffe97d2485c7f360e4a67d4dedd/betterscreens-2.1.1+1.8.9-fabric.jar
 jars/BetterNightVision/a1f520987634378c953d099b9d1b753b9f722aa2/betternightvision-1.0.5+1.8.9-fabric.jar
 jars/Blur/7693f7673c5975b0e3ce1e06704670bd55e17015/LegacyGuiBlur-6.3.4+mc1.8.9-fabric.jar
 jars/Chatting/0145e4b96ffe8972559af424f96a5b1be523d838/chatting-3.2.2+1.8.9.jar
@@ -37,7 +37,7 @@ jars/PolyZoom/fd4a4fafbbd6e100ea6fa58d0b3cb03074e3621f/PolyZoom-1.0.3.jar
 jars/Pulse/1d202b831157e843b1961b1216a542585b838985/pulse-1.0.0.jar
 jars/REDACTION/1cbef319226e1bd944dc68c1edccce2bcf55c5d1/redaction-2.1.0+1.8.9.jar
 jars/RenderTweaks/ce2ceefa5946bfbe65d9d3f0e68a3f17928fef5a/rendertweaks-2.0.2+1.8.9-fabric.jar
-jars/Sarcio/224f5400e130c14d13c7c213d0b269d557c91e0a/Sarcio-1.1.0+7d26fcc.jar
+jars/Sarcio/5b478b3fa51d4a3f131960dcf402cea4772e0788/Sarcio-1.1.0+7b6a590.jar
 jars/Sciophobia/ad8c868c94b9317363ac3eb15916bbc1c8826878/sciophobia-1.2.6+1.8.9-fabric.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_forge.jar
 jars/ScreenshotMessageEnhancer/efe902423f119a7b4abc49d623c49186d03ef58e/ScreenshotMessageEnhancer-2.5.1-1.8.9_ornithe.jar
